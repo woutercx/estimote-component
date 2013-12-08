@@ -5,3 +5,4 @@ obj
 xpkg
 *.xam
 *.dll
+*.log

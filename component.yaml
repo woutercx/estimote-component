@@ -1,0 +1,10 @@
+version: 1.0
+name: Xamarin iOS Estimote Service
+id: estimote
+publisher: Woutercx
+publisher-url: http://twitter.com/woutercx
+summary: A Xamarin.iOS library providing APIs to interact with Estimote http://estimote.com beacons.
+libraries:
+  ios: source/binding/Estimote.iOS.dll
+samples:
+  "iOS Sample. Demonstrates Estimote functions on iOS.": "source/samples/EstimoteSample.iOS/EstimoteSample.iOS.sln"

@@ -1,6 +1,6 @@
 ## Reference Application
 
-Check out the ....... reference application for an example of using the library with Xamarin.iOS
+Check out the EstimoteSample.iOS reference application for an example of using the library with Xamarin.iOS
 
 ## License
 
